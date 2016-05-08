@@ -8,9 +8,10 @@ App is deployed on the shiny server and it can be accessed at the follwing link 
 
 <https://reliabilitycalculator.shinyapps.io/Reliabilityapp/>
 
-The slidify document with 5 slides is prepared and published at Rpubs at the link below.   
+The slidify document with 5 slides is prepared and published at git hub at the link below.     
 
+<https://somnathbarole85.github.io/#1>
 
+In perticular this repo has ui.R, server.R those required for shiny app.   
 
-
-In perticular it has ui.R 
+The folder Slidify files contain index.html, index.Rmd, index.md and all other supprting files. 
